@@ -1,7 +1,0 @@
-agents:
-  - agent_name: "Canary-Transcriber"
-    description: "Converts audio to text using NVIDIA Canary-Qwen."
-    model_name: "nvidia/canary-qwen-2.5b"
-    parameters:
-      audio_file: "C:/Users/jimmy/Downloads/OSR_us_000_0010_8k.wav"
-      prompt: "Transcribe the following:"
