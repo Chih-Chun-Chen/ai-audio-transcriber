@@ -57,3 +57,4 @@ def load_audio_file(file_path: str) -> str:
 
     except Exception as e:
         return f"Transcription error: {str(e)}"
+    
